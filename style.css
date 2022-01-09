@@ -1,0 +1,32 @@
+BODY{
+    background: lightblue;
+    font-family: 'cursive';
+}
+.header_div{
+    color: crimson;
+    background: white;
+}
+.header_div p{
+    font-family: 'roboto';
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'roboto';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: thistle;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    line-height: 3;
+    background-color:whitesmoke ;
+    text-shadow: 5px 5px 5px rgb(red, green, blue);
+}
